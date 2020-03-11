@@ -1,0 +1,14 @@
+.titulopricipal{
+    font-weight: bold;
+}
+.parrafo{
+    font-size: 1.2em ;
+}
+footer{
+    background-color: gray;
+    
+}
+.parrafofooter{
+    color: white;
+    text-align: center;
+}
