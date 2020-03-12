@@ -12,3 +12,19 @@ footer{
     color: white;
     text-align: center;
 }
+.titulo2{
+    color: green;
+    font-weight: bolder;
+}
+.subtitulo{
+    color: green;
+    font-weight: bolder;
+}
+.parrafo_pagina1{
+    font-style: italic;
+    font-weight: bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: green;
+    text-align: justify;
+}
+
